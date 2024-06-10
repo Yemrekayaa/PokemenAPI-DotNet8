@@ -1,0 +1,11 @@
+/Users/yemrekayaa/Pokedex/Pokedex.Service/bin/Debug/net8.0/Pokedex.Service.deps.json
+/Users/yemrekayaa/Pokedex/Pokedex.Service/bin/Debug/net8.0/Pokedex.Service.dll
+/Users/yemrekayaa/Pokedex/Pokedex.Service/bin/Debug/net8.0/Pokedex.Service.pdb
+/Users/yemrekayaa/Pokedex/Pokedex.Service/obj/Debug/net8.0/Pokedex.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yemrekayaa/Pokedex/Pokedex.Service/obj/Debug/net8.0/Pokedex.Service.AssemblyInfoInputs.cache
+/Users/yemrekayaa/Pokedex/Pokedex.Service/obj/Debug/net8.0/Pokedex.Service.AssemblyInfo.cs
+/Users/yemrekayaa/Pokedex/Pokedex.Service/obj/Debug/net8.0/Pokedex.Service.csproj.CoreCompileInputs.cache
+/Users/yemrekayaa/Pokedex/Pokedex.Service/obj/Debug/net8.0/Pokedex.Service.dll
+/Users/yemrekayaa/Pokedex/Pokedex.Service/obj/Debug/net8.0/refint/Pokedex.Service.dll
+/Users/yemrekayaa/Pokedex/Pokedex.Service/obj/Debug/net8.0/Pokedex.Service.pdb
+/Users/yemrekayaa/Pokedex/Pokedex.Service/obj/Debug/net8.0/ref/Pokedex.Service.dll

@@ -1,0 +1,11 @@
+/Users/yemrekayaa/Pokedex/Pokedex.Repository/bin/Debug/net8.0/Pokedex.Repository.deps.json
+/Users/yemrekayaa/Pokedex/Pokedex.Repository/bin/Debug/net8.0/Pokedex.Repository.dll
+/Users/yemrekayaa/Pokedex/Pokedex.Repository/bin/Debug/net8.0/Pokedex.Repository.pdb
+/Users/yemrekayaa/Pokedex/Pokedex.Repository/obj/Debug/net8.0/Pokedex.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yemrekayaa/Pokedex/Pokedex.Repository/obj/Debug/net8.0/Pokedex.Repository.AssemblyInfoInputs.cache
+/Users/yemrekayaa/Pokedex/Pokedex.Repository/obj/Debug/net8.0/Pokedex.Repository.AssemblyInfo.cs
+/Users/yemrekayaa/Pokedex/Pokedex.Repository/obj/Debug/net8.0/Pokedex.Repository.csproj.CoreCompileInputs.cache
+/Users/yemrekayaa/Pokedex/Pokedex.Repository/obj/Debug/net8.0/Pokedex.Repository.dll
+/Users/yemrekayaa/Pokedex/Pokedex.Repository/obj/Debug/net8.0/refint/Pokedex.Repository.dll
+/Users/yemrekayaa/Pokedex/Pokedex.Repository/obj/Debug/net8.0/Pokedex.Repository.pdb
+/Users/yemrekayaa/Pokedex/Pokedex.Repository/obj/Debug/net8.0/ref/Pokedex.Repository.dll
