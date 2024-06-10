@@ -25,7 +25,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/yemrekayaa/Pokedex/Pokedex.Service/Pokedex.Service.csproj": {
+                "projectPath": "/Users/yemrekayaa/Pokedex/Pokedex.Service/Pokedex.Service.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -67,6 +71,188 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yemrekayaa/Pokedex/Pokedex.Core/Pokedex.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yemrekayaa/Pokedex/Pokedex.Core/Pokedex.Core.csproj",
+        "projectName": "Pokedex.Core",
+        "projectPath": "/Users/yemrekayaa/Pokedex/Pokedex.Core/Pokedex.Core.csproj",
+        "packagesPath": "/Users/yemrekayaa/.nuget/packages/",
+        "outputPath": "/Users/yemrekayaa/Pokedex/Pokedex.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yemrekayaa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yemrekayaa/Pokedex/Pokedex.Repository/Pokedex.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yemrekayaa/Pokedex/Pokedex.Repository/Pokedex.Repository.csproj",
+        "projectName": "Pokedex.Repository",
+        "projectPath": "/Users/yemrekayaa/Pokedex/Pokedex.Repository/Pokedex.Repository.csproj",
+        "packagesPath": "/Users/yemrekayaa/.nuget/packages/",
+        "outputPath": "/Users/yemrekayaa/Pokedex/Pokedex.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yemrekayaa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/yemrekayaa/Pokedex/Pokedex.Core/Pokedex.Core.csproj": {
+                "projectPath": "/Users/yemrekayaa/Pokedex/Pokedex.Core/Pokedex.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yemrekayaa/Pokedex/Pokedex.Service/Pokedex.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yemrekayaa/Pokedex/Pokedex.Service/Pokedex.Service.csproj",
+        "projectName": "Pokedex.Service",
+        "projectPath": "/Users/yemrekayaa/Pokedex/Pokedex.Service/Pokedex.Service.csproj",
+        "packagesPath": "/Users/yemrekayaa/.nuget/packages/",
+        "outputPath": "/Users/yemrekayaa/Pokedex/Pokedex.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yemrekayaa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/yemrekayaa/Pokedex/Pokedex.Repository/Pokedex.Repository.csproj": {
+                "projectPath": "/Users/yemrekayaa/Pokedex/Pokedex.Repository/Pokedex.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

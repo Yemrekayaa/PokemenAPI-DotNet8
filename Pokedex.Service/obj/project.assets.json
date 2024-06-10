@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Pokedex.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Pokedex.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pokedex.Core.dll": {}
+        }
+      },
+      "Pokedex.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Pokedex.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Pokedex.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pokedex.Repository.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Pokedex.Core/1.0.0": {
+      "type": "project",
+      "path": "../Pokedex.Core/Pokedex.Core.csproj",
+      "msbuildProject": "../Pokedex.Core/Pokedex.Core.csproj"
+    },
+    "Pokedex.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Pokedex.Repository/Pokedex.Repository.csproj",
+      "msbuildProject": "../Pokedex.Repository/Pokedex.Repository.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Pokedex.Repository >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/yemrekayaa/.nuget/packages/": {}
@@ -31,7 +68,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/yemrekayaa/Pokedex/Pokedex.Repository/Pokedex.Repository.csproj": {
+              "projectPath": "/Users/yemrekayaa/Pokedex/Pokedex.Repository/Pokedex.Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
